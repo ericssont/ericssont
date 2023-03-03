@@ -11,7 +11,7 @@ JavaScript</br>
 Java</br>
 Postgree</br>
 DBeaver</br>
-Objetivos</br>
+</br>
 
 Meu objetivo é me tornar um desenvolvedor Full Stack habilidoso, capaz de criar aplicações web de alta qualidade que atendam às necessidades do usuário final. Pretendo continuar aprendendo e me atualizando sobre as novas tendências e tecnologias na área de desenvolvimento.
 
