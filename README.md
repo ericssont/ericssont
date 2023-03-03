@@ -8,10 +8,11 @@ Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnol
 HTML </br>
 CSS</br>
 JavaScript</br>
+Bootstrap</br>
+ReactJs</br>
 Java</br>
 Postgree</br>
 DBeaver</br>
-</br>
 
 Meu objetivo é me tornar um desenvolvedor Full Stack habilidoso, capaz de criar aplicações web de alta qualidade que atendam às necessidades do usuário final. Pretendo continuar aprendendo e me atualizando sobre as novas tendências e tecnologias na área de desenvolvimento.
 
