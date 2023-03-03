@@ -1,20 +1,20 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
-### Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e atualmente estou fazendo um curso de Analista de Desenvolvimento Full Stack pelo SENAI.
+<h4 align="center"> Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e atualmente estou fazendo um curso de Analista de Desenvolvimento Full Stack pelo SENAI. </h4>
 
-#### Habilidades Técnicas
-Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias. Alguns dos conhecimentos que adquiri até agora são:</br>
+<h3 align="center"> Habilidades Técnicas </h3>
+<p align="center">Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias. Alguns dos conhecimentos que adquiri até agora são:</p></br>
 
-HTML </br>
-CSS</br>
-JavaScript</br>
-Bootstrap</br>
-ReactJs</br>
-Java</br>
-Postgree</br>
-DBeaver</br>
+<p align="center">HTML </p>
+<p align="center">CSS</p>
+<p align="center">JavaScript</p>
+<p align="center">Bootstrap</p>
+<p align="center">ReactJs</p>
+<p align="center">Java</p>
+<p align="center">Postgree</p>
+<p align="center">DBeaver</p>
 
-Meu objetivo é me tornar um desenvolvedor Full Stack habilidoso, capaz de criar aplicações web de alta qualidade que atendam às necessidades do usuário final. Pretendo continuar aprendendo e me atualizando sobre as novas tendências e tecnologias na área de desenvolvimento.
+<p align="center">Meu objetivo é me tornar um desenvolvedor Full Stack habilidoso, capaz de criar aplicações web de alta qualidade que atendam às necessidades do usuário final. Pretendo continuar aprendendo e me atualizando sobre as novas tendências e tecnologias na área de desenvolvimento.</p>
 
-### Contato
-Caso queira entrar em contato comigo para discutir oportunidades de trabalho, projetos ou colaborações, sinta-se à vontade para enviar um e-mail para ericktribess@gmail.com ou me encontrar no LinkedIn em www.linkedin.com/in/ericssontribess.
+ <h3 align="center"> Contato </h3>
+<p align="center">Caso queira entrar em contato comigo para discutir oportunidades de trabalho, projetos ou colaborações, sinta-se à vontade para enviar um e-mail para ericktribess@gmail.com ou me encontrar no LinkedIn em www.linkedin.com/in/ericssontribess. </p>
