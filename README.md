@@ -19,6 +19,7 @@
  <h3 align="center"> Contato </h3>
 <p align="center">Caso queira entrar em contato comigo para discutir oportunidades de trabalho, projetos ou colaborações, sinta-se à vontade para enviar um e-mail para ericktribess@gmail.com ou me encontrar no LinkedIn em www.linkedin.com/in/ericssontribess. </p>
 
+## 
 
 <div align="center">
   <a href="https://github.com/ericssont">
