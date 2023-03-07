@@ -3,7 +3,7 @@
 <h4 align="center"> Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e atualmente estou fazendo um curso de Analista de Desenvolvimento Full Stack pelo SENAI. </h4>
 
 <h3 align="center"> Habilidades Técnicas </h3>
-<p align="center">Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias. Alguns dos conhecimentos que adquiri até agora são:</p></br>
+<p align="center">Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias e a ferramenta ágil, Trello  (kanban). Alguns dos conhecimentos que adquiri até agora são:</p></br>
 
 <p align="center">HTML </p>
 <p align="center">CSS</p>
