@@ -29,7 +29,4 @@
  
  
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50"></img>
- <img src="https://camo.githubusercontent.com/ec404f922ea55836f152d93d7ad53a640ca64490948306f135461fcaa919027c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2d776f72646d61726b2e737667" width="70"></img>
+ 
