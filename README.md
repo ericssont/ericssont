@@ -1,9 +1,9 @@
-<h1 align="center"> Hi there <img src = "https://camo.githubusercontent.com/e70b10f73398e67204a3802914e44ba74ca3022e054b6574c676073fecd1e923/68747470733a2f2f632e74656e6f722e636f6d2f7475766b3471554163615541414141692f626162792d796f64612d737461722d776172732e676966" width= 10% > </h1>
+<h1 align="center"> Hi! <img src = "https://camo.githubusercontent.com/e70b10f73398e67204a3802914e44ba74ca3022e054b6574c676073fecd1e923/68747470733a2f2f632e74656e6f722e636f6d2f7475766b3471554163615541414141692f626162792d796f64612d737461722d776172732e676966" width= 10% > </h1>
 
 <h4 align="center"> Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e atualmente estou fazendo um curso de Analista de Desenvolvimento Full Stack pelo SENAI. </h4>
 
 <h3 align="center"> Habilidades Técnicas </h3>
-<p align="center">Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias e a ferramenta ágil, Trello  (kanban). Alguns dos conhecimentos que adquiri até agora são:</p></br>
+<p align="center">Estou em processo de aprendizado e aprimoramento de diversas linguagens e tecnologias e a ferramenta ágil, Trello  (kanban). Alguns dos conhecimentos que adquiri até agora são:</p>
 
 <p align="center">HTML </p>
 <p align="center">CSS</p>
