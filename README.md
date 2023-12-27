@@ -12,6 +12,8 @@
 <p align="center">ReactJs</p>
 <p align="center">Java</p>
 <p align="center">Postgree</p>
+<p align="center">SQL</p>
+<p align="center">MySQL</p>
 <p align="center">DBeaver</p>
 
 <p align="center">Meu objetivo é me tornar um desenvolvedor Full Stack habilidoso, capaz de criar aplicações web de alta qualidade que atendam às necessidades do usuário final. Pretendo continuar aprendendo e me atualizando sobre as novas tendências e tecnologias na área de desenvolvimento.</p>
