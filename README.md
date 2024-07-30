@@ -11,6 +11,10 @@
 <p align="center">Bootstrap</p>
 <p align="center">ReactJs</p>
 <p align="center">Java</p>
+<p align="center">Git/Github</p>
+<p align="center">Spring Boot</p>
+<p align="center">Railway</p>
+<p align="center">AWS</p>
 <p align="center">Postgree</p>
 <p align="center">SQL</p>
 <p align="center">MySQL</p>
