@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! <img src = "https://camo.githubusercontent.com/e70b10f73398e67204a3802914e44ba74ca3022e054b6574c676073fecd1e923/68747470733a2f2f632e74656e6f722e636f6d2f7475766b3471554163615541414141692f626162792d796f64612d737461722d776172732e676966" width= 10% > </h1>
+<h1 align="center"> Hi! 😅</h1>
 
 <h4 align="center"> Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e sou Analista de Desenvolvimento Full Stack pelo SENAI. </h4>
 
