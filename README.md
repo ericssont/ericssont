@@ -1,4 +1,5 @@
-<h1 align="center"> Hi! 😅</h1>
+<h1 align="center"> Hi! 😅![image](https://github.com/user-attachments/assets/433f6c93-5633-4c7d-be37-29b43e3f73ed)
+</h1>
 
 <h4 align="center"> Olá, meu nome é Ericsson Tribess e sou estudante de Sistemas de Informação. Possuo formação em Publicidade e Propaganda e sou Analista de Desenvolvimento Full Stack pelo SENAI. </h4>
 
